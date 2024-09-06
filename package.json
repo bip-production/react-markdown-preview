@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "name": "react-markdown-preview",
   "private": true,
   "scripts": {
     "build": "npm run build:lib",
